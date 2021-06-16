@@ -1,9 +1,17 @@
 VARIABLES
-
+Se crea una variable para almacenar informacion en el sistema con un nombre asociado a dicha informacion,
+indicandole a la misma, un valor. Para luego poder identificarla y volver a usarla.
 STRINGS
-
+Es una cadena de caracteres o bloque de texto. Se escriben entre comillas.
 FUNCIONES
-
+Una funcion es creada para guardar un codigo (operaciones que va a realizar dicha funcion) a la cual 
+se le puede indicar uno o mas argumento, que despues dara un resultado. Esto se utiliza para no repetir codigo
+cuando se necesite realizar varias veces la misma tarea.
 DECLARACIONES IF
-
+Es un condicional que sirve para dar 2 o mas opciones ante diversas instrucciones que se 
+pueden ejecutar o no, segun la condicion dada.
+Primero se pone if ("si se cumple tal cosa") return ("se devuelve tal cosa") 
+y la otra opcion; else ("si no se cumple") return ("se devuelve tal otra"). 
+Tambien se puede usar else if agregando otra condicion.
 VALORES BOOLEANOS
+Indican si la comparacion entre 2 valores es verdadera o falsa.

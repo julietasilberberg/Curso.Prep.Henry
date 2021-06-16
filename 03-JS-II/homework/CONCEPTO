@@ -1,0 +1,16 @@
+`for` 
+Es un bucle que se repite hasta que se cumpla una condicion. 
+Tiene 3 partes; 
+la variable que cuenta la cant de repeticiones
+la condicion que indica cuando se deja de ejecutar 
+y el paso para indicar como queres que se incremente el valor de la variable. 
+
+OPERADORES LOGICOS 
+
+`&&` Significa AND / y 
+Evalua 2 expresiones y si ambas son verdaderas, devuelve true. Si solo una es verdadera, devuelve false. 
+`||` Significa OR / O 
+A diferencia del operador "and", este devuelve true si una de las dos expresiones es verdadera.
+`!`  Significa NOT / NO
+Se usa antes de dos iguales para indicar desigualdad "!==" y tambien para devolver el valor 
+booleano opuesto al que se le pasa.

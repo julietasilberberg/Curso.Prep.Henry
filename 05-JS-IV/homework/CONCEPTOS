@@ -1,0 +1,11 @@
+OBJETOS
+Son contenedores de datos, dan mucha informacion sobre un elemento. 
+PROPIEDADES
+Se les llama asi a los datos que ponemos dentro del objeto.
+METODOS
+Se les llama asi a las funciones guardadas en un objeto.
+BUCLE FOR…IN
+Es un tipo de bucle integrado que se utiliza para los objetos. 
+Empieza igual pero entre paréntesis se declara una variable, la palabra clave in y el nombre del objeto.
+NOTACION DE PUNTOS --> puede usarse para acceder a otras claves en el mismo objeto
+NOTACION DE CORCHETES ---> accede al valor asociado con esa clave
